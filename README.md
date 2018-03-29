@@ -1,4 +1,4 @@
-# Flutter_movie_part_1
+# Flutter_movie_part_2
 
 ### In this tutorial, we add an expansion tile and our SQLite database to our Movie searcher app.
 
